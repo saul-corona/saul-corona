@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saúl Corona</h1>
-<h3 align="center">I am a Software Engineer specializing in Frontend development with over 4 years of experience in the tech industry.</h3>
+<h3 align="center">I am a Software Engineer specializing in Frontend development with over 5 years of experience in the tech industry.</h3>
 <p align="left">Additionally, my experience includes creating web platforms from scratch, improving performance and usability, and collaborating with multidisciplinary teams in agile environments.
 
 I am passionate about building intuitive and accessible digital experiences, as well as continuous improvement through best practices in software development and architecture.</p>
